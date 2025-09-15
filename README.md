@@ -1,5 +1,5 @@
 # MedCL: Learning Consistent Anatomy Distribution for Scribble-supervised Medical Image Segmentation
-This project is developed for our MedCL 2025 paper: [MedCL: Learning Consistent Anatomy Distribution for Scribble-supervised Medical Image Segmentation]([https://arxiv.org/pdf/2503.22890]).. For more information about MedCL, please read the following paper:
+This project is developed for our MedCL 2025 paper: [MedCL: Learning Consistent Anatomy Distribution for Scribble-supervised Medical Image Segmentation]([https://arxiv.org/pdf/2503.22890]). For more information about MedCL, please read the following paper:
 
 <div align=center><img src="CycleMix.png" width="70%"></div>
 
